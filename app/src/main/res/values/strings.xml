@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prova especial</string>
+    <string name="radio_grande">Grande</string>
+    <string name="radio_pequeno">Pequeno</string>
+</resources>
